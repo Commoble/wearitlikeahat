@@ -5,8 +5,7 @@
 	"refmap": "wearitlikeahat.refmap.json",
 	"mixins": 
 	[
-		"PlayerContainerSlotMixin",
-		"BlockMixin"
+		"PlayerContainerSlotMixin"
 	],
 	"client": 
 	[
