@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "com.github.commoble.wearitlikeahat.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "wearitlikeahat.refmap.json",
+	"mixins": 
+	[
+		"PlayerContainerSlotMixin",
+		"BlockMixin"
+	],
+	"client": 
+	[
+	],
+	"injectors": 
+	{
+		"defaultRequire": 1
+	},
+	"minVersion": "0.8"
+}
